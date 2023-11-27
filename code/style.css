@@ -1,0 +1,48 @@
+
+ body{
+	background-image:url(images/hoho.jpg);
+	 
+	 
+ }
+ 
+ #test {
+	 transition:0.5s transform;
+  background-color:#fde1de;
+	color:#000000; 
+	padding:15px;
+	margin:10px;
+	border:8px double #e6bdc3;
+	border-radius:9px;
+	opacity:0.9;
+	box-shadow:15px 15px 45px #f8e7ea;
+	width:80%;
+	height:20px;
+	display:block;
+	text-align:center;
+	font-size:25px;
+	font-weight:600;
+	transform:scale(1.0);
+	
+	
+ }
+ 
+ 
+
+ #test:hover{
+ transform:rotate(3deg);
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
